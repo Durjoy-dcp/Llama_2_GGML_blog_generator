@@ -1,2 +1,5 @@
 langchain_community
 langchain
+python-dotenv
+huggingface_hub
+ctransformers
